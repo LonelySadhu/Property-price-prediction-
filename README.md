@@ -1,4 +1,4 @@
-## Property price prediction-
+## Property price prediction
 ***
 Курсовой проект для курса "Python для Data Science"
 
